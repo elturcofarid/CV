@@ -15,7 +15,7 @@ Con capacidades analítica  y lógicas, habilidad para resolver problemas, buena
 
 ####Formación Académica	
 
-•	Especialización en Seguridad Informática, UNAD – Barranquilla (En Curso)
+•	Especialización en Seguridad Informática, UNAD
 
 •	Ingeniero en Sistemas, UNAD. Bogotá - Colombia.
 

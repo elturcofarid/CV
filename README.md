@@ -1,6 +1,10 @@
-## Your Name
+## FARID ELIECER URECHE LOPEZ
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+#Perfil Profesional
+
+Ingeniero en  Sistema con conocimientos en Programación Orientada a    Objeto (JAVA,  JSP, J2EE, STRUTS, ORACLE, PL, SQL Y SQL SERVER, Visual Fox Pro), Análisis y diseño de sistemas, Dominio  Sistema Operativo Unix o Windows NT/XP,  Administración de Base de Datos, Ambiente de Redes, Desarrollo de aplicaciones en Internet y  Multimedia. 
+Con capacidades analítica  y lógicas, habilidad para resolver problemas, buena capacidad de aprendizaje y dotes de liderazgo.   Soy responsable y comprometido, trabajo de manera coordinada en equipo.
+
 
 ## Skills
 
@@ -23,22 +27,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+####Formación Académica	
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+•	Especialización en Seguridad Informática, UNAD – Barranquilla (En Curso)
 
-#### Your University / College (start_date to end_date)
+•	Ingeniero en Sistemas, UNAD. Bogotá - Colombia.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+•	Tecnólogo de Sistemas, UNAD. Santa Marta - Colombia.
 
-#### Any other qualifications
+
+
+
+ Actualizaciones  y  Formación Continua:  	
+•	PREPARACION PARA LA CERTIFICACION DE JAVA PROGRAMER. 
+IT-Talent  - Bogotá  Julio  2011. 
+
+•	APLICACIONES WEB EN SERVIDOR CON JSP Y BASES DE DATOS Universidad Politécnica de Madrid  - España  Diciembre -  Marzo 2009. 
+
+•	Programación en Java Básico SUNION – Madrid España Septiembre 2008. 
+
+•	Programación en Java Avanzado SUNION – Madrid España Septiembre 2008.
+
+•	Programación de Computadores Corporación educativa del Caribe 1997 – 1999
+
+•	Mantenimiento, instalación de Computadores Corporación educativa del Caribe 
+1999 – 1999
+
 
 ## Experience
 
